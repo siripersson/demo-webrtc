@@ -16,7 +16,6 @@ if (!location.hash) {
   let room;
   let pc;
   
-  
   function onSuccess() {};
   function onError(error) {
     console.error(error);
